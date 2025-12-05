@@ -1,12 +1,11 @@
-# ProductManagement_Projekat
-C# WinForms aplikacija za upravljanje proizvodima i kupcima, povezana sa ASP.NET Core Web API-jem i EF Core. Omogućava CRUD operacije i prikaz podataka kroz desktop GUI i RESTful API.
-Tehnologije:
+# ProductManagement_Project
+A C# WinForms product and customer management application, coupled with ASP.NET Core Web API and EF Core. It enables CRUD operations and data display through a desktop GUI and RESTful API.
+Technologies:
 
 Backend: C#, ASP.NET Core Web API, Entity Framework Core
 
 Frontend: C#, Windows Forms
 
-Baza Podataka: MS SQL Server
+Database: MS SQL Server
 
-Verzionisanje: Git, GitHub
-
+Versioning: Git, GitHub
